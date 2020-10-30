@@ -12,11 +12,10 @@
 * Unsupervised learning is a machine learning technique in which users do not need to supervise the model, all you have to do is give the model unlabeled data containing different features and the model will discover new patterns and information contained in the data.
 
 * Let me give you an example of unsupervised learning:
-* It's your first invasion, you are an alien. You have been waiting for this day all your alien life and it has finally come, your first alien invasion. 
-You are invading planet Earth, this planet is inhabited by some primitive life form called humans, you have never seen a human before.
+* It's your first invasion, you are an alien. You are invading planet Earth, this planet is inhabited by some primitive life form called humans, and you have never seen a human before.
 Your alien spaceship takes off at 8:00am in the morning from planet Amala, and by 8:02am your spaceship is already hovering over earth because, you know spaceships travel at light speed (basically they travel really fast). 
-Your commanding alien officer tells you; you are going to land in a place called Nigeria. You get excited!
-You landed somewhere called Lagos, which happened to be densely populated with humans, so dense it was unhealthy by your alien standards. 
+Now on planet Earth, you land in a place called Lagos, Nigeria.
+You immediately notice that Lagos is densely populated with humans, so dense it was unhealthy by your alien standards. 
 You see your first human, very primitive looking creature. It had short hair, it was producing deep sounds, facial hair, narrow waists and it had broad shoulders. You see many humans like that.
 You see another set of humans, these ones have long hair, produced thin sounds, slimmer shoulders, broad waists and little facial hair. You see many like that also.
 
