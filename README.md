@@ -29,5 +29,5 @@ Two most common forms of clustering:
 1. Flat Clustering (K-Means Clustering)
 2. Hierarchical Clustering (Mean-Shift)
 
-#### Check the notebooks in this repository for the explanations and examples of this 2 forms of clustering. This repository also includes a notebook showing the application of hierarchical  clusteing to the common titanic dataset.
+# Check the notebooks in this repository for the explanations and examples of this 2 forms of clustering. This repository also includes a notebook showing the application of hierarchical  clusteing to the common titanic dataset.
 
