@@ -14,7 +14,7 @@
 * Let me give you an example of unsupervised learning:
 * It's your first invasion, you are an alien. You are invading planet Earth, this planet is inhabited by some primitive life form called humans, and you have never seen a human before.
 Your alien spaceship takes off at 8:00am in the morning from planet Amala, and by 8:02am your spaceship is already hovering over earth because, you know spaceships travel at light speed (basically they travel really fast). 
-Now on planet Earth, you land in a place called Lagos, Nigeria.
+Now on planet Earth, you land in a place called Lagos, in a country called Nigeria.
 You immediately notice that Lagos is densely populated with humans, so dense it was unhealthy by your alien standards. 
 You see your first human, very primitive looking creature. It had short hair, it was producing deep sounds, facial hair, narrow waists and it had broad shoulders. You see many humans like that.
 You see another set of humans, these ones have long hair, produced thin sounds, slimmer shoulders, broad waists and little facial hair. You see many like that also.
