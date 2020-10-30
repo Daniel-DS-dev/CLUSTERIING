@@ -3,8 +3,9 @@
 * This a notebook explaining in simple terms, how to use unsupervised machine learning algorithms, specifically; Flat Clustering (K-Means Clustering) and Hierachical Clustering (Mean-Shift)
 
 # Unsupervised Machine Learning:
-Unsupervised learning is a machine learning technique in which users do not need to supervise the model, all you have to do is give the model unlabeled data containing different features and the model will discover new patterns and information contained in the data 
-Let's start with an example
+* Unsupervised learning is a machine learning technique in which users do not need to supervise the model, all you have to do is give the model unlabeled data containing different features and the model will discover new patterns and information contained in the data 
+
+* Let me give you an example
 It's your first invasion, you are an alien. You have been waiting for this day all your alien life and it has finally come, you first alien invasion. 
 You are invading planet Earth, this planet is inhabited by some primitive life form called humans, you have never seen a human before.
 Your alien spaceship takes off at 8:00am in the morning from planet Amala, and by 8:02am your spaceship is already hovering over earth because, you know spaceships travel at light speed (basically they travel really fast). 
